@@ -1,4 +1,3 @@
-the Midnight Quill.github.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
